@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main(){
+ void sum(int a,int b)
+{
+
+    cout<<"Result="<<a+b"\n";
+}
+ void sum (float x, float y)
+ {
+    cout<<"Result of Decimal="<< X+y;
+ }
+
+ int main()
+ {
+    sum(34.5,5.2);
+ }
+}
+
